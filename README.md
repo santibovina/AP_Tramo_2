@@ -7,6 +7,6 @@ También pueden encontrar el link a la notebook que presenté a los profesores.
 
 [https://colab.research.google.com/drive/1mS6gSRS-5Bgpa-L0TaoYs3dq4ibmfIK3]
 
-Cualquier consulta o sugerencia es bienvenida. <br><br>
+Cualquier consulta o sugerencia es bienvenida.
 Gracias,<br>
 Santiago Bovina.
