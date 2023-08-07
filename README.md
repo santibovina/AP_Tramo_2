@@ -5,8 +5,8 @@ El tramo 2 del curso comienza con la presentación del programa y las distintas 
 En este repositorio dejo un archivo csv que utilicé para el trabajo final de este tramo, el cual obtuve del siguiente link: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales.
 También pueden encontrar el link a la notebook que presenté a los profesores.
 
-[https://colab.research.google.com/drive/1mS6gSRS-5Bgpa-L0TaoYs3dq4ibmfIK3]
+https://colab.research.google.com/drive/1mS6gSRS-5Bgpa-L0TaoYs3dq4ibmfIK3
 
-Cualquier consulta o sugerencia es bienvenida.
+Cualquier consulta o sugerencia es bienvenida.<br>
 Gracias,<br>
 Santiago Bovina.
